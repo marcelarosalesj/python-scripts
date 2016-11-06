@@ -2,19 +2,18 @@ from __future__ import print_function # for using Python3 print
 
 #https://www.python.org/doc/essays/graphs/
 def find_all_paths(graph, start, end, path=[]):
-		#import pdb; pdb.set_trace()
-		path = path + [start]
-		if start == end:
-			return [path]
-		if not graph.has_key(start):
-			return []
-		paths = []
-		for node in graph[start]:
-			if node not in path:
-				newpaths = find_all_paths(graph, node, end, path)
-				for newpath in newpaths:
-					paths.append(newpath)
-		return paths
+        path = path + [start]
+        if start == end:
+            return [path]
+        if not graph.has_key(start):
+            return []
+        paths = []
+        for node in graph[start]:
+            if node not in path:
+                newpaths = find_all_paths(graph, node, end, path)
+                for newpath in newpaths:
+                    paths.append(newpath)
+        return paths
 
 
 
@@ -57,8 +56,7 @@ for row in range( 0, n ) :
 	print("")
 
 # Find all roads
-p=[]
-p = find_all_paths(root, "0,0", str(n-1)+","+str(m-1), p)
+p = find_all_paths(root, "0,0", str(n-1)+","+str(m-1))
 
 import pdb; pdb.set_trace()
 
