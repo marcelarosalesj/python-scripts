@@ -1,6 +1,6 @@
 {   'meta': {   'tag': {   'config': None,
                            'model': 'general-v1.3',
-                           'timestamp': 1485913619.108493}},
+                           'timestamp': 1486099410.938303}},
     'results': [   {   'docid': 7238790039582989462,
                        'docid_str': '85c23fd1301029c76475593030fadc96',
                        'local_id': '',
@@ -83,7 +83,7 @@
 ---------------------------------------------
 {   'meta': {   'tag': {   'config': None,
                            'model': 'general-v1.3',
-                           'timestamp': 1485913620.674529}},
+                           'timestamp': 1486099412.845296}},
     'results': [   {   'docid': 11255279851819298288,
                        'docid_str': '2d2a508f76e6debb9c32c964674cedf0',
                        'local_id': '',
@@ -162,7 +162,7 @@
 ---------------------------------------------
 {   'meta': {   'tag': {   'config': None,
                            'model': 'general-v1.3',
-                           'timestamp': 1485913627.154677}},
+                           'timestamp': 1486099414.441387}},
     'results': [   {   'docid': 15823268931348662775,
                        'docid_str': '387011a451a10b7fdb978b41fe8309f7',
                        'local_id': '',
@@ -247,7 +247,7 @@
 ---------------------------------------------
 {   'meta': {   'tag': {   'config': None,
                            'model': 'general-v1.3',
-                           'timestamp': 1485913628.810034}},
+                           'timestamp': 1486099415.836864}},
     'results': [   {   'docid': 7873660198571722629,
                        'docid_str': '47c2d5ec1019aa5a6d44dc3bf1ffc785',
                        'local_id': '',
@@ -326,7 +326,7 @@
 ---------------------------------------------
 {   'meta': {   'tag': {   'config': None,
                            'model': 'general-v1.3',
-                           'timestamp': 1485913630.860761}},
+                           'timestamp': 1486099417.162914}},
     'results': [   {   'docid': 3981780209691226415,
                        'docid_str': '4b1bd438676db042374220011c53712f',
                        'local_id': '',
@@ -406,7 +406,7 @@
 ---------------------------------------------
 {   'meta': {   'tag': {   'config': None,
                            'model': 'general-v1.3',
-                           'timestamp': 1485913632.670495}},
+                           'timestamp': 1486099418.810292}},
     'results': [   {   'docid': 1463608411536672016,
                        'docid_str': 'ae055fc0f32d96bd144fc81883eac510',
                        'local_id': '',
