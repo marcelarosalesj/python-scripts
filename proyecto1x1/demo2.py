@@ -1,3 +1,7 @@
+#
+# This does basically the same that demo1.py does
+#
+
 from clarifai import rest
 from clarifai.rest import ClarifaiApp
 from clarifai.rest import Image as ClImage
